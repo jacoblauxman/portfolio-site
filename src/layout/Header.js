@@ -57,9 +57,9 @@ const Header = ({ blog }) => {
           <a href="https://www.linkedin.com/in/jacob-lauxman-a3170b261/" target="_blank">
             <i className="fab fa-linkedin-in" />
           </a>
-          {/* <a href="#">
-            <i className="fab fa-pinterest" />
-          </a> */}
+          <a href="https://angel.co/u/jacob-lauxman">
+            <i className="fab fa-angellist" />
+          </a>
         </div>
       </header>
     </Fragment>

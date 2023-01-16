@@ -83,7 +83,7 @@ const Contact = () => {
             </div>
           </div>
           <div className="col-lg-7 col-xl-8 m-15px-tb">
-            <div className="contact-form">
+            {/* <div className="contact-form">
               <h4>Say Something</h4>
               <form id="contact-form" onSubmit={(e) => onSubmit(e)}>
                 <div className="row">
@@ -145,7 +145,7 @@ const Contact = () => {
                   </div>
                   <div className="col-md-12">
                     <div className="send">
-                      {/* <button
+                      <button
                         onSubmit={(e) => onSubmit(e)}
                         className="px-btn px-btn-theme"
                         type="button"
@@ -153,7 +153,7 @@ const Contact = () => {
                       >
                         {" "}
                         send message
-                      </button> */}
+                      </button>
                       <input
                         className="px-btn px-btn-theme"
                         type="submit"
@@ -180,7 +180,7 @@ const Contact = () => {
                   </div>
                 </div>
               </form>
-            </div>
+            </div> */}
           </div>
           <div className="col-12">
             <div className="google-map">
