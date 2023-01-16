@@ -95,8 +95,8 @@ const Portfolio = () => {
             <div className="portfolio-box-01">
               <div className="portfolio-info">
                 <h5 className="white-color font-weight-bold">GameBaux</h5>
-                <span><a href='https://gamebaux.onrender.com/' target="_blank">Live Site </a></span> ||
-                <span><a href='https://github.com/jacoblauxman/aa-capstone' target="_blank"> GitHub Repo</a></span>
+                <span><a href="https://gamebaux.onrender.com/" target="_blank">Live Site </a></span> ||
+                <span><a href="https://github.com/jacoblauxman/aa-capstone" target="_blank"> GitHub Repo</a></span>
               </div>
               <div className="portfolio-img">
                 <img src="static/img/gamebaux-preview.png" title="" alt="" />
